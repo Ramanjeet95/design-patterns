@@ -1,4 +1,4 @@
-package com.dp.behaviour.decorator;
+package com.dp.structural.decorator2;
 
 import io.github.resilience4j.retry.Retry;
 import io.github.resilience4j.retry.RetryConfig;

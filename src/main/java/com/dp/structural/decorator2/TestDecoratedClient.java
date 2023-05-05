@@ -1,4 +1,4 @@
-package com.dp.behaviour.decorator;
+package com.dp.structural.decorator2;
 
 import java.net.URI;
 import java.net.URISyntaxException;

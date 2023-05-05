@@ -1,4 +1,4 @@
-package com.dp.behaviour.decorator;
+package com.dp.structural.decorator2;
 
 import lombok.extern.slf4j.Slf4j;
 
